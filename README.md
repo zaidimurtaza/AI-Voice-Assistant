@@ -27,7 +27,7 @@ This project is an AI-powered assistant built using the Ollama Llama 3.2 model. 
 ### Steps
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-assistant-ollama-llama.git
+   git clone [https://github.com/yourusername/ai-assistant-ollama-llama.git](https://github.com/zaidimurtaza/AI-Voice-Assistant.git)
    cd ai-assistant-ollama-llama
    ```
 
